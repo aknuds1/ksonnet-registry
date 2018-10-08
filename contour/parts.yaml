@@ -1,0 +1,16 @@
+name: contour
+apiVersion: 0.0.1
+kind: ksonnet.io/parts
+description: >
+  Contour (Kubernetes ingress controller)/cert-manager related prototypes.
+author: Arve Knudsen <arve.knudsen@gmail.com>
+repository:
+  type: git
+  url: https://github.com/aknuds1/ksonnet-registry
+bugs:
+  url: https://github.com/aknuds1/ksonnet-registry/issues
+keywords:
+  - contour
+  - cert-manager
+  - ingress
+license: MIT

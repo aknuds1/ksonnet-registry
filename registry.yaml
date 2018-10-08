@@ -1,0 +1,6 @@
+apiVersion: '0.1'
+kind: ksonnet.io/registry
+libraries:
+  contour:
+    version: master
+    path: contour
